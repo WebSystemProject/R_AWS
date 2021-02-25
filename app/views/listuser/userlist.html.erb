@@ -232,7 +232,9 @@
                     <img class="img-fluid" src=<%= userlst.userphoto %> alt="">
                   </div>
                   <div class="candidate-list-details table-center">
-                    <a href="#"><%= userlst.username %></a>
+                    <a href=<%='http://localhost:3000/photos/index/' + userlst.userid.to_s %> target="_blanks">
+                      <%= userlst.username %>
+                    </a>
                   </div>
                 </td>
               <tr>

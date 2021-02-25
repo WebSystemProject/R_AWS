@@ -1,5 +1,5 @@
 class PhotoController < ApplicationController
   def photo
-    @user_photo_list = Userphoto.joins(inner join Usercomment on Userphoto.userid=Usercomment.userid)
+    @user_photo_list = Userphoto.where(userid: params[:id])
   end
 end
