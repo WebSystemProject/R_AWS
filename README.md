@@ -1,4 +1,4 @@
-# PhotoSite Application & Deployment on AWS using docker
+# PhotoSite Application & Deployment on AWS using Docker
 
 - [Introduction and Purpose](https://github.com/singhpayalcsu/PhotoSite/wiki#section-1-introduction-and-purpose)
 - [AWS S3 Bucket](https://github.com/singhpayalcsu/PhotoSite/wiki#aws-s3-bucke)
