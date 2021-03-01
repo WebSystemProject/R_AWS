@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  photoid: 1
+  photourl: MyString
+  createddate: 2021-02-25 12:03:23
+  userid: 1
+
+two:
+  photoid: 1
+  photourl: MyString
+  createddate: 2021-02-25 12:03:23
+  userid: 1
